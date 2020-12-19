@@ -6,7 +6,7 @@ this is done by mirroring the upstream Git repository, but if upstream
 uses something else, then the mirror nevertheless makes the package
 available as a Git repository.
 
-<img src="https://emacsmirror.net/emacsmirror.png">
+<img src="https://emacsmirror.net/assets/emacsmirror.png">
 
 One primary purpose of the Emacsmirror is to provide a comprehensive
 list of available Emacs packages, including packages which have gone
